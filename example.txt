@@ -1,0 +1,3 @@
+﻿Đây là dòng đầu tiên.
+Dòng thứ hai có chuỗi cần tìm.
+Dòng thứ ba không chứa chuỗi.

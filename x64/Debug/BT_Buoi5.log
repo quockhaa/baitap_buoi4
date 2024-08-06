@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BT_Buoi5.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  cau1.cpp
+  cau2.cpp
+  cau3.cpp
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\cau3.cpp(1,1): error C2059: syntax error: '+'
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\cau3.cpp(8,34): error C2015: too many characters in constant
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\cau3.cpp(26,24): error C2015: too many characters in constant
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\cau3.cpp(32,37): error C2059: syntax error: '+'
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\cau3.cpp(32,42): error C2059: syntax error: ')'
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\cau3.cpp(37,54): error C2059: syntax error: '+'
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\cau3.cpp(37,68): error C2059: syntax error: ')'
+  Generating Code...

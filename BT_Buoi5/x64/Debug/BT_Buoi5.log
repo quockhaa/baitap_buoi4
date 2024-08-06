@@ -1,0 +1,15 @@
+﻿  Buoi4.cpp
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(7,16): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(7,16): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(16,20): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(16,20): warning C4566: character represented by universal-character-name '\u1EA5' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(16,20): warning C4566: character represented by universal-character-name '\u1EA1' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(16,20): warning C4566: character represented by universal-character-name '\u1ECB' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(16,20): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 3 has type '__int64'
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(5,18): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(28,12): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(32,12): warning C4566: character represented by universal-character-name '\u1EAD' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(32,12): warning C4566: character represented by universal-character-name '\u1ED7' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(32,12): warning C4566: character represented by universal-character-name '\u1EBF' cannot be represented in the current code page (1252)
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(30,5): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\TH-KTLT\BT_Buoi5\BT_Buoi5\Buoi4.cpp(34,5): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
